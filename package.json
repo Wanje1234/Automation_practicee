@@ -1,0 +1,23 @@
+{
+  "name": "automation_practicee",
+  "version": "1.0.0",
+  "description": "Automation_practicee",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wanje1234/Automation_practicee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Wanje1234/Automation_practicee/issues"
+  },
+  "homepage": "https://github.com/Wanje1234/Automation_practicee#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
